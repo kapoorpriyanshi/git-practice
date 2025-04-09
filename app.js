@@ -1,1 +1,1 @@
-console.log("Hello from main branch!");
+console.log("Hello from merged version - both branches handled!");
